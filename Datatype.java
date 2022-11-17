@@ -10,12 +10,12 @@ boolean myBool=true;
 String myText="Think Positive";
  double myWight=60;
 
-		System.out.println(myNumber);
-		System.out.println(myfloatNumber);
-		System.out.println(myletter);
-		System.out.println(myBool);
-		System.out.println(myText);
-		System.out.println(myWight);
+		System.out.println(myNumber);//260197
+		System.out.println(myfloatNumber);//17.98f
+		System.out.println(myletter);//J
+		System.out.println(myBool);//true
+		System.out.println(myText);//Think Positive
+		System.out.println(myWight);//60
 	
 	}
 }
