@@ -1,3 +1,5 @@
+//Block of code to be excited if the condition is true.
+
 public class If{
 public static void main (String[] args){
 int x=10;
