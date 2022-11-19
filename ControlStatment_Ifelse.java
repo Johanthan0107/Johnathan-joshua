@@ -1,3 +1,6 @@
+//Else:- Block of code to be excuted if the condition is fals.
+
+
 public class If{
 public static void main (String[] args){
 int x=10;
