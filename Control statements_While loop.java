@@ -1,3 +1,6 @@
+/*while loop:- The While loop, loops through a
+ block of code as long as a Specified condition.*/
+
 public class Main {
   public static void main(String[] args) {
     int i = 0;
