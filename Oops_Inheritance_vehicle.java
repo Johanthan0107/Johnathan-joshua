@@ -17,7 +17,7 @@ class Car extends Vehicle {
     // Create a myCar object
     Car myCar = new Car();
 
-    // Call the honk() method (from the Vehicle class) on the myCar object
+    // Call the Jaguar() method (from the Vehicle class) on the myCar object
     myCar.Jaguar();
 
     // Display the value of the brand attribute (from the Vehicle class) and the value of the modelName from the Car class
